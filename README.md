@@ -1,6 +1,6 @@
-Hi! This is Porthos Gaa-Lok Fu from Hangzhou City. 
+Hi! This is Porthos from Hangzhou City. 
 
-您好！这里是来自杭州的 Porthos Gaa-Lok Fu。
+您好！这里是来自杭州的 Porthos。
 
 I am a undergraduate student major in Mechanical Engineering with Transportation. I am expected to get a BEng degree from Central South University and University of Dundee in July 2026.
 
