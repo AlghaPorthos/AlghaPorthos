@@ -6,3 +6,5 @@ I am a undergraduate student major in Mechanical Engineering with Transportation
 
 我现在是一名交通设备与控制工程专业的本科生。我预期于2026年7月获得中南大学和邓迪大学颁发的工学学士学位。
 
+
+
