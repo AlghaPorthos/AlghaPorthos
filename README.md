@@ -1,6 +1,6 @@
 Hi! This is Porthos from Hangzhou City. 
 
-您好！这里是来自杭州的傅嘉乐，你也可以叫我的英文名：Porthos。
+您好！我是来自杭州的 Porthos。
 
 I am a undergraduate student major in Mechanical Engineering with Transportation. I am expected to get a BEng degree from Central South University and University of Dundee in July 2026.
 
