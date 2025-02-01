@@ -1,0 +1,17 @@
+{
+  "train": [
+    {
+      "root": "/content/Open-GroundingDino/datasets/DIOR_RSVG/JPEGImages",
+      "anno": "/content/Open-GroundingDino/datasets/DIOR_RSVG/DIOR_RSVG_lines.jsonl",
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "/content/Open-GroundingDino/datasets/coco_2017/val2017",
+      "anno": "/content/Open-GroundingDino/datasets/coco_2017/instances_val2017.json",
+      "label_map": null,
+      "dataset_mode": "coco"
+    }
+  ]
+}
