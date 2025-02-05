@@ -8,8 +8,8 @@
   ],
   "val": [
     {
-      "root": "/content/Open-GroundingDino/datasets/DOTA_V1/val/images",
-      "anno": "/content/Open-GroundingDino/datasets/DOTA_V1/val/DOTA_trainval1024.json",
+      "root": "/content/Open-GroundingDino/datasets/coco_2017/val2017",
+      "anno": "/content/Open-GroundingDino/datasets/coco_2017/instances_val2017.json",
       "label_map": null,
       "dataset_mode": "coco"
     }
