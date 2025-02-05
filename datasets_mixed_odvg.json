@@ -4,6 +4,12 @@
       "root": "/content/Open-GroundingDino/datasets/DIOR_RSVG/JPEGImages",
       "anno": "/content/Open-GroundingDino/datasets/DIOR_RSVG/DIOR_RSVG_lines.jsonl",
       "dataset_mode": "odvg"
+    },
+    {
+      "root": "/content/Open-GroundingDino/datasets/DOTA_V1/train/images",
+      "anno": "/content/Open-GroundingDino/datasets/DOTA_V1/train/DOTA_trainval1024_od.json",
+      "label_map": "/content/Open-GroundingDino/datasets/DOTA_V1/DOTA_V1_DataMap.json",
+      "dataset_mode": "odvg"
     }
   ],
   "val": [
@@ -12,7 +18,12 @@
       "anno": "/content/Open-GroundingDino/datasets/coco_2017/instances_val2017.json",
       "label_map": null,
       "dataset_mode": "coco"
+    },
+    {
+      "root": "/content/Open-GroundingDino/datasets/DOTA_V1/val/images",
+      "anno": "/content/Open-GroundingDino/datasets/DOTA_V1/val/DOTA_trainval1024.json",
+      "label_map": "/content/Open-GroundingDino/datasets/DOTA_V1/DOTA_V1_DataMap.json",
+      "dataset_mode": "coco"
     }
-    
   ]
 }
