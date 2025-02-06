@@ -3,6 +3,7 @@
     {
       "root": "/content/Open-GroundingDino/datasets/DOTA_V1/train/images",
       "anno": "/content/Open-GroundingDino/datasets/DOTA_V1/train/DOTA_trainval1024_od.jsonl",
+      "label_map": "/content/Open-GroundingDino/datasets/DOTA_V1/DOTA_V1_DataMap.json",
       "dataset_mode": "coco"
     }
   ],
